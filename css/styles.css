@@ -66,3 +66,13 @@ main > .tagline {
 	margin-left: .675rem;
 	width: 2.65rem;
 }
+
+.blog {
+	color: #303f9f;
+	font: 2rem bold;
+	margin-top: 5rem;
+}
+
+.blog a {
+	text-decoration: none;
+}
