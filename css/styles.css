@@ -69,10 +69,13 @@ main > .tagline {
 
 .blog {
 	color: #303f9f;
-	font: 2rem bold;
+	font-size: 2rem;
 	margin-top: 5rem;
 }
-
-.blog a {
+.blog a:link {
 	text-decoration: none;
+}
+
+.blog a:hover {
+	text-decoration: underline;
 }
