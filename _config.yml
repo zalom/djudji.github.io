@@ -6,7 +6,7 @@ email:       zlatko.alomerovic@gmail.com
 author:      Zlatko Alomerovic
 description: "Whatever an engineer has to say!"
 url:         "zalom.github.io"
-baseurl:     "https://zalom.github.io/blog/"
+baseurl:     ""
 date_format: "%b %-d, %Y"
 formspree_form_id: xwkrvezy
 
