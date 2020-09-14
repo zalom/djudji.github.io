@@ -9,16 +9,18 @@ mathjax: false
 
 Hello there,
 
-These are times when [personal blogs](#) are easily overlooked due to the high rise of online publishing platforms (Medium anyone?) that make your [ideas](#), [solutions](#), or [just thoughts](#) only a drop in the ocean of information.
+These are times when [personal blogs](#) are easily overlooked due to the high rise of online publishing platforms (Medium anyone?).
 
-But I like to think of this as my [personal repo](#), so let's call it [zalom's repo](#)!
+Publishing platforms make make your [ideas](#), [solutions](#), or [just thoughts](#) only a drop in the ocean of information.
+
+So I like to think of this as my [personal repo](#), and let's call it [zalom's repo](#)!
 
 I will share [my point/s of view](#) here, and I hope you will find some value in all of it.
 
-So,
+Without further ado,
 
 {% highlight ruby lineanchors %}
-puts 'Welcome everyone!'
+puts 'Welcome, everyone!'
 {% endhighlight %}
 
 Z. - author
