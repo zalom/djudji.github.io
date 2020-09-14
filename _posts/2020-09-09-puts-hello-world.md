@@ -11,7 +11,7 @@ Hello there,
 
 These are times when [personal blogs](#) are easily overlooked due to the high rise of online publishing platforms (Medium anyone?).
 
-Publishing platforms make make your [ideas](#), [solutions](#), or [just thoughts](#) only a drop in the ocean of information.
+Publishing platforms make your [ideas](#), [solutions](#), or [just thoughts](#) only a drop in the ocean of information.
 
 So I like to think of this as my [personal repo](#), and let's call it [zalom's repo](#)!
 
