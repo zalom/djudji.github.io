@@ -5,7 +5,7 @@ title:       "Zalom's Repo | Zlatko Alomerovic | Ruby on Rails | JavaScript"
 email:       zlatko.alomerovic@gmail.com
 author:      Zlatko Alomerovic
 description: "Whatever an engineer has to say!"
-url:         "zalom.github.io/"
+url:         "zalom.github.io"
 baseurl:     "/zalom"
 date_format: "%b %-d, %Y"
 formspree_form_id: xwkrvezy
