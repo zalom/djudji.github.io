@@ -105,7 +105,7 @@ __(MEng.) Engineer’s Degree, Electrical Engineering and Computer Science__
 
 Thesis: _“Application of the basic numerical methods in the dynamic systems simulations”_
 
-## Work-related Involvement
+## Activities
 
 `2019`
 __Mentor, <a href="https://www.spaceappschallenge.org/" target="_blank" class="resume-link">NASA Space Apps Challenge</a>__ Space Apps is an international hackathon ...
