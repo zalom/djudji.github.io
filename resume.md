@@ -50,7 +50,7 @@ _Technical environment: Ruby on Rails, CoffeeScript, PostgreSQL, in-house Ruby G
 </pre>
 
 `2017`
-__Backend Software Engineer, <a href="https://www.trybugle.com/" target="_blank" class="resume-link">SabeOnline | Bugle</a>, Porto (Portugal)__
+__Backend Software Engineer, <a href="https://www.trybugle.com/" target="_blank" class="resume-link">SabeOnline | Bugle</a>, Lisbon (Portugal)__
 
 Bugle (former Sabe Online) is a B2B CRM and CMS platform for managing the education of the employees and customers.
 
