@@ -41,3 +41,10 @@ button,
 .resume-link {
   color: $link-color;
 }
+
+.highlighted-link {
+  color: black !important;
+  text-decoration: none;
+  border-bottom: .0625em solid #dcf3ff;
+  box-shadow: 0 -0.4em 0 #dcf3ff inset;
+}
