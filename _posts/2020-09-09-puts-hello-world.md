@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      puts "Hello World!"
+title:      puts 'Hello World!'
 date:       2020-09-09 10:00:00
 summary:    Whatever an engineer has to say. Welcome!
 categories: general
