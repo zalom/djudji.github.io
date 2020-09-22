@@ -7,7 +7,7 @@ permalink: /resume/
 # Zlatko Alomerovic
 
 <div id="headline">
-I engineer web applications with <i class="fa fa-gem"></i>Ruby on Rails and <i class="fa fa-js"></i>Javascript black magic!
+I engineer web applications with <i class="fa fa-gem"></i>Ruby on Rails and <i class="fa fa-js"></i>JavaScript black magic!
 </div>
 
 
